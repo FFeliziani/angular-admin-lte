@@ -1,4 +1,4 @@
-# angular-admin-lte
+npm# angular-admin-lte
 
 Admin-lte implementation for Angular 4+
 

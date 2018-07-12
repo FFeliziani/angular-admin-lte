@@ -37,6 +37,7 @@ export class BoxComponent implements AfterViewInit, OnDestroy {
   @Input() public boxColor = 'default';
   @Input() public buttonsStyleClass = 'btn btn-box-tool';
   @Input() public contentStyleClass = 'box-content-wrapper';
+  @Input() public bodyStyleClass = 'box-body';
   @Input() public contentColor: string;
   @Input() public footer: string;
   @Input() public footerColor: string;
